@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"orderedSeries","l":"Main"},{"p":"orderedSeries","l":"OrderedLL"},{"p":"orderedSeries","l":"OrderedSeries"},{"p":"orderedSeries","l":"OrderedStack"}];updateSearchResults();
