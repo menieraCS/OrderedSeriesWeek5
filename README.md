@@ -3,7 +3,7 @@
  composition, and code reuse. The OrderedSeries class creates a template
  for creating different types of data structures that sort added data.
  The OrderedLL class does so with a LinkedList structure. The OrderedStack class does so with a Stack structure. The Main class
- demonstrates how the OrderedStack class can be used. Use Oracle guidelines.
+ demonstrates how the OrderedStack class can be used. Uses Oracle guidelines.
  
  ### Software reuse examples:
  1) List interface in OrderedSeries class
@@ -34,8 +34,8 @@ I created a small waterfall chart outlining what I thought would be the steps of
 
 ### Directory and File information:
 ```
- /docs                 javadocs export
- /orderedSeries        compiled files
- Ordered Series UMLv2  UML diagram
- Planning diagram      the waterfall chart I created to plan the maintnance activity
+ /docs                     javadocs export
+ /orderedSeries            compiled files
+ Ordered Series UMLv2.pdf  UML diagram
+ Planning diagram.pdf      a waterfall chart I created to plan the maintnance activity
 ```
